@@ -1,0 +1,141 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #ffe6f0;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Container */
+.container {
+  text-align: center;
+  background: #fff0f6;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.1);
+  width: 300px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #ff5fa2;
+}
+
+/* Relógio Digital */
+.digital-clock {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ff4081;
+  font-weight: bold;
+}
+
+/* Relógio Analógico */
+.analog-clock {
+  width: 200px;
+  height: 200px;
+  border: 8px solid #ff99c8;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+  position: relative;
+  background: #fff;
+  box-shadow: inset 0px 0px 20px rgba(0,0,0,0.05);
+}
+
+.hand {
+  width: 50%;
+  height: 4px;
+  background: #ff4081;
+  position: absolute;
+  top: 50%;
+  transform-origin: 100%;
+  transform: rotate(90deg);
+  transition: transform 0.5s ease-in-out;
+  border-radius: 2px;
+}
+
+.hand.minute {
+  height: 3px;
+  background: #ff80ab;
+}
+
+.hand.second {
+  height: 2px;
+  background: #ff1744;
+}
+
+.center-dot {
+  width: 12px;
+  height: 12px;
+  background: #ff4081;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Botão de Tema */
+button {
+  background: #ff80ab;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #ff4081;
+}
+
+/* Tema Escuro */
+body.dark {
+  background: #1e1e2f;
+  color: #fff;
+}
+
+body.dark .container {
+  background: #2a2a3d;
+}
+
+body.dark .analog-clock {
+  border: 8px solid #ff4081;
+  background: #333;
+}
+
+body.dark .hand {
+  background: #ff80ab;
+}
+
+body.dark .center-dot {
+  background: #ff80ab;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(90deg, #ffb6c1, #ff69f4);
+    color: white;
+    font-size: 14px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+}
+
+footer strong{
+    color: #fff5fb;
+}
