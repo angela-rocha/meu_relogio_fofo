@@ -1,4 +1,4 @@
-# relogiofofo
+# Meu relógio fofo
 Relógio digital e analógico
 
 <img width="1024" height="720" alt="Relógio Digital e Analógico - Google Chrome 31_08_2025 17_32_24" src="https://github.com/user-attachments/assets/3c08ce41-b52f-4fde-93b5-fc898e8c7dbb" />
@@ -27,7 +27,7 @@ Esse relógio tem um design **delicado em tons de rosa**, perfeito para treinar 
 
 ## 🚀 Como Visualizar
 Você pode acessar o projeto publicado no GitHub Pages clicando aqui:  
-🔗 [**Veja o Relógio ao Vivo**](https://angela-silva.github.io/relogiofofo)
+🔗 [**Veja o Relógio ao Vivo**](https://angela-silva.github.io/meu_relogio_fofo)
 
 
 🎯 Objetivo do Projeto
