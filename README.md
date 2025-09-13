@@ -3,7 +3,7 @@ Relógio digital e analógico
 
 <img width="1024" height="720" alt="Relógio Digital e Analógico - Google Chrome 31_08_2025 17_32_24" src="https://github.com/user-attachments/assets/3c08ce41-b52f-4fde-93b5-fc898e8c7dbb" />
 
-# ⏰ Relógio Digital e Analógico - Tons de Rosa 🌸
+# ⏰ Relógio Digital e Analógico 
 
 Um projeto simples e elegante de **Relógio Digital e Analógico** desenvolvido apenas com **HTML, CSS e JavaScript**.  
 Esse relógio tem um design **delicado em tons de rosa**, perfeito para treinar manipulação do DOM, animações em CSS e exibição de hora em tempo real.
