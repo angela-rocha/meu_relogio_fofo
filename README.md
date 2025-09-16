@@ -39,6 +39,6 @@ Animações em CSS
 
 Responsividade e design criativo
 
-## ✨ Créditos
+## ✨ Autora
 
 Desenvolvido com 💖 por Angela Rocha.
