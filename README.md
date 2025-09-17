@@ -41,4 +41,4 @@ Responsividade e design criativo
 
 ## ✨ Autora
 
-Desenvolvido com 💖 por Angela Rocha.
+Desenvolvido com 💖 por Angela Rocha
