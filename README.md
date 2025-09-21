@@ -27,7 +27,7 @@ Esse relógio tem um design **delicado em tons de rosa**, perfeito para treinar 
 
 ## 🚀 Como Visualizar
 Você pode acessar o projeto publicado no GitHub Pages clicando aqui:  
-🔗 [**Veja o Relógio ao Vivo**](https://angela-silva.github.io/meu_relogio_fofo)
+🔗 [**Veja o Relógio ao Vivo**](https://angela-rocha.github.io/meu_relogio_fofo)
 
 
 🎯 Objetivo do Projeto
