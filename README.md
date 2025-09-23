@@ -39,6 +39,9 @@ Animações em CSS
 
 Responsividade e design criativo
 
-## ✨ Autora
+## 👩‍💻 Autora
 
-Desenvolvido com 💖 por Angela Rocha
+Feito com muito carinho por **Angela Rocha** ❤️  
+🔗 [Meu GitHub](https://github.com/angela-silva)  
+📧 Contato: angela.devfrontend@gemail.com  
+
