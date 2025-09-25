@@ -13,7 +13,7 @@ Esse relógio tem um design **delicado em tons de rosa**, perfeito para treinar 
 ## 🔥 Funcionalidades
 - 🕒 Relógio **digital** com horas, minutos e segundos em tempo real.
 - 🕰️ Relógio **analógico** com ponteiros animados.
-- 🎨 **Design responsivo e delicado** em tons de rosa.
+- 🎨 **Design responsivo e delicado** em tons de rosa. (porque programação também precisa de delicadeza)
 - 🌗 Botão para alternar **modo claro e escuro**.
 
 ---
