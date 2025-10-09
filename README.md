@@ -1,5 +1,5 @@
 ## Meu relógio fofo
-Relógio digital e analógico.
+## Relógio digital e analógico.
 
 <img width="1024" height="720" alt="Relógio Digital e Analógico - Google Chrome 31_08_2025 17_32_24" src="https://github.com/user-attachments/assets/3c08ce41-b52f-4fde-93b5-fc898e8c7dbb" />
 
